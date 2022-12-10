@@ -20,6 +20,6 @@ o "Anula" para desligar o Dimmer, desligando a lâmpada;
 
 o Qualquer outra tecla: nada deve acontecer.
 
-o Lembre-se de que ao pressionar as teclas “Anula” ou “Entra” não se deve alterar o valor do ângulo de disparo.
+o Ao pressionar as teclas “Anula” ou “Entra” não se deve alterar o valor do ângulo de disparo.
 
 Ainda, o valor atual do ângulo de disparo e o estado da lâmpada (ligada ou desligada) deve ser exibida no display.
